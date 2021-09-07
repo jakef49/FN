@@ -1,0 +1,7 @@
+Origin: JKFree 
+Label: jake_49.github.io 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
